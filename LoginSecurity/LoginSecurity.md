@@ -1,4 +1,5 @@
-Possible crash exploit via le plugin LoginSecurity 3.3.0
+Possible crash exploit via le plugin LoginSecurity 3.3.0.
+Injection d'un uuid invalide dans le packet de connexion pour créer des connexions et saturer la mémoire du serveur.
 
 ## Vulnerable Code:
 ```

@@ -33,6 +33,9 @@ A Python script has been developed to demonstrate this vulnerability. It allows 
 - **Illicit Rewards**: If a server offers in-game rewards for each vote, this vulnerability enables unauthorized acquisition of such rewards.
 - **Log Spamming**: Massive fake vote submissions can saturate the server's logs.
 
+## Showcase
+https://youtu.be/m3dLHnYTVdA
+
 ## Status
 This vulnerability is **known** and has been addressed in previous updates. NuVotifier acknowledges that Protocol V1 is insecure, but it remains enabled by default to ensure compatibility with many existing voting sites that only support this protocol. [SpigotMC Reference](https://www.spigotmc.org/resources/nuvotifier.13449/updates?page=3&utm_source=chatgpt.com)
 
